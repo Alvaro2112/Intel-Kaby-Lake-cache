@@ -5,6 +5,6 @@ Project of system oriented programming course at EPFL
 
 ## Authors
 
-* **Christophe Saad**
-* **Auguste Lefevre**
+* **Alvaro Caudéran**
+* **Gauthier Boeshertz**
 
