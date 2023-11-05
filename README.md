@@ -11,13 +11,7 @@ This project involved creating a simulation that accurately represents the behav
 - Two-level hierarchical TLB and cache system emulation for instructions and data retrieval.
 - Cache associativity and memory mapping strategies, incorporating Least Recently Used (LRU) cache replacement policy.
 - A comprehensive suite of tests designed to validate each memory management component and the overall system integrity.
-
-## Installation
-_The complete installation instructions required for setting up the simulation, including dependencies and compilation steps, will be provided here._
-
-## Usage
-_Step-by-step instructions on how to operate the simulation, including usage of the command-line interface and configuration options, will be detailed here._
-
+- 
 ## Authors
 - **Alvaro Caudéran**
 - **Gauthier Boeshertz**
